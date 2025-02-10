@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: cloud
+description: public cloud services
 image:
 
 # Badge style
